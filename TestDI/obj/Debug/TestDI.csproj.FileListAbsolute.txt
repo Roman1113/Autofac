@@ -1,0 +1,17 @@
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\TestDI.exe.config
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\TestDI.exe
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\TestDI.pdb
+C:\Users\maksutroman\source\repos\TestDI\TestDI\obj\Debug\TestDI.csprojAssemblyReference.cache
+C:\Users\maksutroman\source\repos\TestDI\TestDI\obj\Debug\TestDI.csproj.CoreCompileInputs.cache
+C:\Users\maksutroman\source\repos\TestDI\TestDI\obj\Debug\TestDI.exe
+C:\Users\maksutroman\source\repos\TestDI\TestDI\obj\Debug\TestDI.pdb
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\Autofac.dll
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\Autofac.pdb
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\Autofac.xml
+C:\Users\maksutroman\source\repos\TestDI\TestDI\obj\Debug\TestDI.csproj.CopyComplete
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\EntityFramework.dll
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\EntityFramework.xml
+C:\Users\maksutroman\source\repos\TestDI\TestDI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksutroman\source\repos\TestDI\TestDI\obj\Debug\TestDI.Migrations.tblUser.resources
+C:\Users\maksutroman\source\repos\TestDI\TestDI\obj\Debug\TestDI.csproj.GenerateResource.cache
